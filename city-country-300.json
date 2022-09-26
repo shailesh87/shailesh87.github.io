@@ -1,0 +1,1802 @@
+[
+ {
+   "id": 57837,
+   "name": "Bamboo Flat",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133213,
+   "name": "Nicobar",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133482,
+   "name": "Port Blair",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134006,
+   "name": "South Andaman",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57593,
+   "name": "Addanki",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134452,
+   "name": "Adoni",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57620,
+   "name": "Akasahebpet",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57623,
+   "name": "Akividu",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57624,
+   "name": "Akkarampalle",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57658,
+   "name": "Amalapuram",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57690,
+   "name": "Amudalavalasa",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57693,
+   "name": "Anakapalle",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57698,
+   "name": "Anantapur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57758,
+   "name": "Atmakur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57761,
+   "name": "Attili",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57771,
+   "name": "Avanigadda",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57794,
+   "name": "Badvel",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57849,
+   "name": "Banganapalle",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 58137,
+   "name": "Bapatla",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57939,
+   "name": "Betamcherla",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57971,
+   "name": "Bhattiprolu",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 58021,
+   "name": "Bhimavaram",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 58022,
+   "name": "Bhimunipatnam",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 58070,
+   "name": "Bobbili",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 58179,
+   "name": "Challapalle",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131514,
+   "name": "Chemmumiahpet",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131556,
+   "name": "Chilakalurupet",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131563,
+   "name": "Chinnachowk",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131611,
+   "name": "Chipurupalle",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131612,
+   "name": "Chirala",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131575,
+   "name": "Chittoor",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131577,
+   "name": "Chodavaram",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131627,
+   "name": "Cuddapah",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131628,
+   "name": "Cumbum",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131658,
+   "name": "Darsi",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131727,
+   "name": "Dharmavaram",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131740,
+   "name": "Dhone",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131769,
+   "name": "Diguvametta",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131823,
+   "name": "East Godavari",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131830,
+   "name": "Elamanchili",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131832,
+   "name": "Ellore",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131836,
+   "name": "Emmiganur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131842,
+   "name": "Erraguntla",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131846,
+   "name": "Etikoppaka",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131895,
+   "name": "Gajuwaka",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131906,
+   "name": "Ganguvada",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131915,
+   "name": "Gannavaram",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131955,
+   "name": "Giddalur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131972,
+   "name": "Gokavaram",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131993,
+   "name": "Gorantla",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132001,
+   "name": "GovindapuramChilakaluripetGuntur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132010,
+   "name": "Gudivada",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132012,
+   "name": "Gudlavalleru",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132051,
+   "name": "Gudur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132027,
+   "name": "Guntakal Junction",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132028,
+   "name": "Guntur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132099,
+   "name": "Hindupur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132151,
+   "name": "Ichchapuram",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132189,
+   "name": "Jaggayyapeta",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132228,
+   "name": "Jammalamadugu",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132328,
+   "name": "Kadiri",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132332,
+   "name": "Kaikalur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132678,
+   "name": "Kakinada",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132358,
+   "name": "Kalyandurg",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132691,
+   "name": "Kamalapuram",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132372,
+   "name": "Kandukur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132374,
+   "name": "Kanigiri",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132376,
+   "name": "Kankipadu",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132388,
+   "name": "Kanuru",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132729,
+   "name": "Kavali",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132552,
+   "name": "Kolanukonda",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132567,
+   "name": "Kondapalle",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132584,
+   "name": "Korukollu",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132590,
+   "name": "Kosigi",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132616,
+   "name": "Kovvur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132621,
+   "name": "Krishna",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132653,
+   "name": "Kuppam",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132660,
+   "name": "Kurnool",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133055,
+   "name": "Macherla",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132806,
+   "name": "Machilipatnam",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132808,
+   "name": "Madanapalle",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133059,
+   "name": "Madugula",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132890,
+   "name": "Mandapeta",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132891,
+   "name": "Mandasa",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132902,
+   "name": "Mangalagiri",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133088,
+   "name": "Markapur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133114,
+   "name": "Nagari",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133258,
+   "name": "Nagireddipalli",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133143,
+   "name": "Nandigama",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133144,
+   "name": "Nandikotkur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133146,
+   "name": "Nandyal",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133156,
+   "name": "Narasannapeta",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133157,
+   "name": "Narasapur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133158,
+   "name": "Narasaraopet",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133160,
+   "name": "Narasingapuram",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133275,
+   "name": "Narayanavanam",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133173,
+   "name": "Narsipatnam",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133283,
+   "name": "Nayudupet",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133206,
+   "name": "Nellore",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133214,
+   "name": "Nidadavole",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133294,
+   "name": "Nuzvid",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133300,
+   "name": "Ongole",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133521,
+   "name": "Pakala",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133523,
+   "name": "Palakollu",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133340,
+   "name": "Palasa",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133534,
+   "name": "Palkonda",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133331,
+   "name": "Pallevada",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133336,
+   "name": "Palmaner",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133361,
+   "name": "Parlakimidi",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133549,
+   "name": "Parvatipuram",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133395,
+   "name": "Pavuluru",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133400,
+   "name": "Pedana",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134447,
+   "name": "pedda nakkalapalem",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133402,
+   "name": "Peddapuram",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133409,
+   "name": "Penugonda",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133410,
+   "name": "Penukonda",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133440,
+   "name": "Phirangipuram",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133455,
+   "name": "Pippara",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133465,
+   "name": "Pithapuram",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133468,
+   "name": "Polavaram",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133476,
+   "name": "Ponnur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133478,
+   "name": "Ponnuru",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133485,
+   "name": "Prakasam",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133489,
+   "name": "Proddatur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133497,
+   "name": "Pulivendla",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133506,
+   "name": "Punganuru",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133517,
+   "name": "Puttaparthi",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133519,
+   "name": "Puttur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133671,
+   "name": "Rajahmundry",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133691,
+   "name": "Ramachandrapuram",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133600,
+   "name": "Ramanayyapeta",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133712,
+   "name": "Ramapuram",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133605,
+   "name": "Rampachodavaram",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133729,
+   "name": "Rayachoti",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133730,
+   "name": "Rayadrug",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133734,
+   "name": "Razam",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133732,
+   "name": "Razampeta",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133733,
+   "name": "Razole",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133627,
+   "name": "Renigunta",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133630,
+   "name": "Repalle",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134065,
+   "name": "Salur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134066,
+   "name": "Samalkot",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133822,
+   "name": "Sattenapalle",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133946,
+   "name": "Singarayakonda",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133990,
+   "name": "Sompeta",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134019,
+   "name": "Srikakulam",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134032,
+   "name": "Srisailain",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134093,
+   "name": "Suluru",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134226,
+   "name": "Tadepalle",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134227,
+   "name": "Tadepallegudem",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134228,
+   "name": "Tadpatri",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134113,
+   "name": "Tanuku",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134126,
+   "name": "Tekkali",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134183,
+   "name": "Tirumala",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134187,
+   "name": "Tirupati",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134222,
+   "name": "Tuni",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134292,
+   "name": "Uravakonda",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134448,
+   "name": "vadlamuru",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134308,
+   "name": "Vadlapudi",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134347,
+   "name": "Venkatagiri",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134348,
+   "name": "Vepagunta",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134350,
+   "name": "Vetapalem",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134356,
+   "name": "Vijayawada",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134364,
+   "name": "Vinukonda",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134369,
+   "name": "Visakhapatnam",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134373,
+   "name": "Vizianagaram",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134374,
+   "name": "Vizianagaram District",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134377,
+   "name": "Vuyyuru",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134407,
+   "name": "West Godavari",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134424,
+   "name": "Yanam",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134426,
+   "name": "Yanamalakuduru",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134437,
+   "name": "Yarada",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57645,
+   "name": "Along",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57708,
+   "name": "Anjaw",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 58151,
+   "name": "Basar",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 58080,
+   "name": "Bomdila",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 58196,
+   "name": "Changlang",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131763,
+   "name": "Dibang Valley",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131826,
+   "name": "East Kameng",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131828,
+   "name": "East Siang",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132090,
+   "name": "Hayuliang",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132178,
+   "name": "Itanagar",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132499,
+   "name": "Khonsa",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132663,
+   "name": "Kurung Kumey",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132769,
+   "name": "Lohit District",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132779,
+   "name": "Lower Dibang Valley",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132780,
+   "name": "Lower Subansiri",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132934,
+   "name": "Margherita",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133121,
+   "name": "Naharlagun",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133551,
+   "name": "Pasighat",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134120,
+   "name": "Tawang",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134135,
+   "name": "Tezu",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134199,
+   "name": "Tirap",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134288,
+   "name": "Upper Siang",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134289,
+   "name": "Upper Subansiri",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134409,
+   "name": "West Kameng",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134411,
+   "name": "West Siang",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134444,
+   "name": "Ziro",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57585,
+   "name": "Abhayapuri",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57679,
+   "name": "Amguri",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57787,
+   "name": "Badarpur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57820,
+   "name": "Baksa",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57883,
+   "name": "Barpathar",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57884,
+   "name": "Barpeta",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57885,
+   "name": "Barpeta Road",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 58150,
+   "name": "Basugaon",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 58028,
+   "name": "Bihpuriagaon",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 58034,
+   "name": "Bijni",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 58053,
+   "name": "Bilasipara",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 58075,
+   "name": "Bokajan",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 58077,
+   "name": "Bokakhat",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 58081,
+   "name": "Bongaigaon",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131634,
+   "name": "Cachar",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131588,
+   "name": "Chabua",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131604,
+   "name": "Chapar",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131568,
+   "name": "Chirang",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131657,
+   "name": "Darrang",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131695,
+   "name": "Dergaon",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131732,
+   "name": "Dhekiajuli",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131733,
+   "name": "Dhemaji",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131737,
+   "name": "Dhing",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131744,
+   "name": "Dhubri",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131762,
+   "name": "Dibrugarh",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131766,
+   "name": "Digboi",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131770,
+   "name": "Dima Hasao District",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131776,
+   "name": "Diphu",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131778,
+   "name": "Dispur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131795,
+   "name": "Duliagaon",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131796,
+   "name": "Dum Duma",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131928,
+   "name": "Gauripur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132004,
+   "name": "Goalpara",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131967,
+   "name": "Gohpur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131976,
+   "name": "Golaghat",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131977,
+   "name": "Golakganj",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 131997,
+   "name": "Goshaingaon",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132039,
+   "name": "Guwahati",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132134,
+   "name": "Haflong",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132055,
+   "name": "Hailakandi",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132137,
+   "name": "Hajo",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132110,
+   "name": "Hojai",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132126,
+   "name": "Howli",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132291,
+   "name": "Jogighopa",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132294,
+   "name": "Jorhat",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132693,
+   "name": "Kamrup",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132366,
+   "name": "Kamrup Metropolitan",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132718,
+   "name": "Karbi Anglong",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132402,
+   "name": "Karimganj",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132518,
+   "name": "Kharupatia",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132551,
+   "name": "Kokrajhar",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132742,
+   "name": "Lakhimpur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132743,
+   "name": "Lakhipur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132793,
+   "name": "Lala",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132786,
+   "name": "Lumding Railway Colony",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132842,
+   "name": "Mahur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132853,
+   "name": "Maibong",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133064,
+   "name": "Makum",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132904,
+   "name": "Mangaldai",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132937,
+   "name": "Mariani",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133002,
+   "name": "Moranha",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 132995,
+   "name": "Morigaon",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133110,
+   "name": "Nagaon",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133122,
+   "name": "Nahorkatiya",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133130,
+   "name": "Nalbari",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133266,
+   "name": "Namrup",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133284,
+   "name": "Nazira",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133239,
+   "name": "North Guwahati",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133240,
+   "name": "North Lakhimpur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133248,
+   "name": "Numaligarh",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133341,
+   "name": "Palasbari",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133584,
+   "name": "Raha",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133610,
+   "name": "Rangapara",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133608,
+   "name": "Rangia",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133798,
+   "name": "Sapatgram",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133809,
+   "name": "Sarupathar",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133916,
+   "name": "Sibsagar",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133934,
+   "name": "Silapathar",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133935,
+   "name": "Silchar",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133979,
+   "name": "Soalkuchi",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133998,
+   "name": "Sonari",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 133996,
+   "name": "Sonitpur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134003,
+   "name": "Sorbhog",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134134,
+   "name": "Tezpur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134175,
+   "name": "Tinsukia",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134203,
+   "name": "Titabar",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 134252,
+   "name": "Udalguri",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57661,
+   "name": "Amarpur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57730,
+   "name": "Araria",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57739,
+   "name": "Arrah",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57747,
+   "name": "Arwal",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57749,
+   "name": "Asarganj",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57766,
+   "name": "Aurangabad",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57796,
+   "name": "Bagaha",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57809,
+   "name": "Bahadurganj",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57815,
+   "name": "Bairagnia",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57816,
+   "name": "Baisi",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57818,
+   "name": "Bakhtiyarpur",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57850,
+   "name": "Bangaon",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57854,
+   "name": "Banka",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57855,
+   "name": "Banmankhi",
+   "country_code": "IN",
+   "country_name": "India"
+ },
+ {
+   "id": 57860,
+   "name": "Bar Bigha",
+   "country_code": "IN",
+   "country_name": "India"
+ }
+]
